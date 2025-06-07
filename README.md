@@ -5,23 +5,38 @@ Bem-vindo ao meu projeto de Coleta, Limpeza e Preparação Avançada de Dados co
 ⚙️ Tecnologias e Ferramentas Utilizadas
 
 🐍 Python – Linguagem principal do projeto
+
 📦 Pandas – Manipulação, limpeza e análise de dados
+
 🌐 Requests – Coleta de dados via APIs
+
 🧮 Scikit-learn – Transformações estatísticas e preparação de dados
+
 📊 Funções Estatísticas – Detecção e tratamento de outliers com IQR e z-score
+
 🧠 LabelEncoder / OneHotEncoder – Codificação de variáveis categóricas
+
 📈 MinMaxScaler / StandardScaler – Normalização e padronização de dados
+
 💻 VS Code – Ambiente de desenvolvimento
+
 💾 CSV – Salvamento e exportação de dados tratados
+
 🎯 Objetivo do Projeto
 
 Este projeto tem como propósito aplicar conceitos de ciência de dados, engenharia de dados e machine learning, passando por todo o processo de preparação dos dados:
 
+
 🔄 Coleta de dados de APIs e bases SQL
+
 🧹 Limpeza e tratamento de dados brutos
+
 ⚙️ Transformações e codificações para modelagem
+
 📊 Análise exploratória para compreensão e filtragem
+
 💾 Exportação de datasets prontos para análise ou machine learning
+
 🧠 Habilidades Desenvolvidas
 
 Analisar dados para identificar nulos, duplicados e únicos
@@ -41,31 +56,39 @@ Criar novas features → Geração de variáveis a partir de interações, frequ
 
 Extração via requisições HTTP com requests
 Conexão com bancos de dados e leitura de arquivos .csv
+
 🧹 2. Tratamento e Limpeza
 
 Análise com .head(), .tail(), .info(), .duplicated(), .isnull()
 Preenchimento e exclusão de dados ausentes
 Conversão de tipos e formatação de colunas
 Tratamento de outliers com IQR e z-score
+
 🔄 3. Transformação e Engenharia de Features
 
 Normalização e padronização de dados
 Codificação de variáveis categóricas
 Criação de novas colunas com base em regras e frequência
+
 💾 4. Exportação
 
 Salvamento dos dados limpos e prontos para modelagem em .csv
+
 🚀 Como Executar o Projeto
 
 Clone o repositório:
 
 git clone https://github.com/seu-usuario/projeto-dados-ml.git
 
+
 🤝 Contribuições
 Fique à vontade para abrir issues, enviar pull requests ou sugerir melhorias.
 Toda colaboração é muito bem-vinda
 
+
 📫 Contato
+
 💼 LinkedIn: https://www.linkedin.com/in/wellington-antuness/
+
 
 📧 Email: wantuneszoe@gmail.com
